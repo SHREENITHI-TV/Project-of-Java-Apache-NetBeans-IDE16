@@ -24,6 +24,10 @@ This is a Java-based **scientific calculator** that extends a basic calculator w
 
 ✅ NetBeans handles the Main Class automatically and launches the calculator.
 
+(or)
+
+This folder contains 'Jar File' folder inside there is the executable `.jar` file - make sure Java is installed, then run it directly using `java -jar simpleScientificCalculator.jar` or by double-clicking the file.
+
 ---
 
 ## 🧪 How to Use
