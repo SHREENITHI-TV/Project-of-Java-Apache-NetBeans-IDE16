@@ -1,6 +1,7 @@
 #  🧮 SI Calculator - Run the JAR
 
 This folder contains **siCalculator.jar** - a ready-to-run Java (Swing) calculator that performs basic arithmetic operations.
+
 ---
 
 ## ✅ Quick Start (Run the JAR)
@@ -13,5 +14,6 @@ Check it:
 java -version
 ```
 If you see a version number, you’re good!!
+
 
 
