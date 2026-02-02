@@ -138,4 +138,3 @@ A Swing-based calculator supporting:
 ## Notes
 
 - These are classic **NetBeans-generated Swing forms** (`.form` files) plus the corresponding `.java` files.
-- If you open the projects in a different NetBeans version or JDK, you may be prompted to upgrade project metadata — that’s normal.
