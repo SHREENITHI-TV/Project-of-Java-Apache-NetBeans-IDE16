@@ -28,7 +28,7 @@ Cross N Knot is a Java-based graphical Tic-Tac-Toe game created using **Java Swi
 
 (or)
 
-This folder contains 'Jar File' folder inside there is the executable `.jar` file - make sure Java is installed, then run it directly using `java -jar <filename>.jar` or by double-clicking the file.
+This folder contains 'Jar File' folder inside there is the executable `.jar` file - make sure Java is installed, then run it directly using `java -jar CrossNKnot.jar` or by double-clicking the file.
 
 
 ---
