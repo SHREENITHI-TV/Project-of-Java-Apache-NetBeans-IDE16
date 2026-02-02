@@ -24,6 +24,10 @@ SI Calculator is a simple Java-based calculator that performs **basic arithmetic
 
 ✅ NetBeans will automatically execute the configured **Main Class**.
 
+(or)
+
+This folder contains 'Jar File' folder inside there is the executable `.jar` file - make sure Java is installed, then run it directly using `java -jar siCalculator.jar` or by double-clicking the file.
+
 ---
 
 ## 🧠 How to Use
